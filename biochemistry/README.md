@@ -8,3 +8,7 @@
 Now, every atom and molecule associated with some type of energy. And, nucleic acids (DNA/RNA) also have many atoms and their bonds formations with possibilities, finally the Energy of the molecule.
 
 So, the genome itself associated with an Energy, <b>E</b>.
+
+Syntax:
+
+       <b>E<sub>genome</sub></b> = Energy of the genome.
