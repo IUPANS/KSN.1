@@ -4,3 +4,5 @@ References
 2. Convex Optimization - https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 3. https://en.wikipedia.org/wiki/Kelly%27s_lemma
 4. https://en.wikipedia.org/wiki/Lindel%C3%B6f%27s_lemma
+
+5. https://blogs.scientificamerican.com/the-curious-wavefunction/synthesis-enzymes-and-force-fields-defining-chemical-elegance/
