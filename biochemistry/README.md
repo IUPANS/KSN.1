@@ -27,7 +27,7 @@ If we're doing Quantum treatment of Genome itself associated with an Energy, <b>
 
    <b><i>k</i>/mol</b>
   
-## corollary
+## Corollary
 Erwin Rudolf Josef Alexander Schrödinger; 12 August 1887 – 4 January 1961), sometimes written as Erwin Schrodinger or Erwin Schroedinger, was a Nobel Prize-winning Austrian physicist who developed a number of fundamental results in the field of quantum theory, which formed the basis of wave mechanics: he formulated the wave equation (stationary and time-dependent Schrödinger equation) and revealed the identity of his development of the formalism and matrix mechanics. Schrödinger proposed an original interpretation of the physical meaning of the wave function.
 
 ¶ <b>Lemma<sub>(gene)</sub>:</b>
@@ -42,4 +42,6 @@ Genes are associated with perturbations (a disturbance of motion, course, arrang
 
 
 ## 2. Quantum Genomics
-¶ The <b>Quantum Genomics</b>, is a fundamental theoretical science which explains loudly the nature of genes, itself associated system and sub-system and their expression behavior at the small scales and energy levels of atoms and their bonding possibilities. 
+¶ The <b>Quantum Genomics</b>, is a fundamental theoretical science which explains loudly the nature of genes, itself associated system and sub-system and their expression behavior at the small scales and energy levels of atoms and their bonding possibilities. Quantum genomics is a great way to understand the mathematical equations written inside the combination of genes and finally genome. There is no way till this date, it's understood by any other methods.
+
+So, it's a formulation of mathematical models and equations to understand deeply, how whole genome is behaving <i>in-vivo</i>.
