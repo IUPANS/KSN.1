@@ -1,4 +1,6 @@
-﻿References
+References
 ==========
 1. Farkas’ lemma: three decades of generalizations for mathematical optimization - https://link.springer.com/article/10.1007%2Fs11750-014-0319-y
 2. Convex Optimization - https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+3. https://en.wikipedia.org/wiki/Kelly%27s_lemma
+4. https://en.wikipedia.org/wiki/Lindel%C3%B6f%27s_lemma
