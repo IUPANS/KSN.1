@@ -16,3 +16,13 @@ Syntax:
 Units:
 
        <b><i>k</i>/mol</b>
+       
+If we're doing Quantum treatment of Genome itself associated with an Energy, <b>Eψ</b>.
+
+Syntax: 
+
+       <b>Eψ<sub>genome</sub></b> = Energy of the genome.
+ 
+ Units:
+
+       <b><i>k</i>/mol</b>
