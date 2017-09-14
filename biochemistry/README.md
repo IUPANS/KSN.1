@@ -12,3 +12,7 @@ So, the genome itself associated with an Energy, <b>E</b>.
 Syntax:
 
        <b>E<sub>genome</sub></b> = Energy of the genome.
+
+Units:
+
+       <b><i>k</i>/mol</b>
