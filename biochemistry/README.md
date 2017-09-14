@@ -39,3 +39,7 @@ Genes are associated with perturbations (a disturbance of motion, course, arrang
 ¶ <b>Lemma<sub>(disassociations)</sub>:</b>
 
 ¶ <b>Lemma<sub>(Eψ=Genome<sub>Energy</sub>)</sub>:</b>
+
+
+## 2. Quantum Genomics
+¶ The <b>Quantum Genomics</b>, is a fundamental theoretical science which explains loudly the nature of genes, itself associated system and sub-system and their expression behavior at the small scales and energy levels of atoms and their bonding possibilities. 
