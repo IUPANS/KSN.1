@@ -9,20 +9,20 @@ Now, every atom and molecule associated with some type of energy. And, nucleic a
 
 So, the genome itself associated with an Energy, <b>E</b>.
 
-Syntax:
+<b>Syntax:</b>
 
-       <b>E<sub>genome</sub></b> = Energy of the genome.
+   <b>E<sub>genome</sub></b> = Energy of the genome.
 
-Units:
+<b>Units:</b>
 
-       <b><i>k</i>/mol</b>
+   <b><i>k</i>/mol</b>
        
 If we're doing Quantum treatment of Genome itself associated with an Energy, <b>Eψ</b>.
 
-Syntax: 
+<b>Syntax:</b>
 
-       <b>Eψ<sub>genome</sub></b> = Energy of the genome.
+   <b>Eψ<sub>genome</sub></b> = Energy of the genome.
  
- Units:
+ <b>Units:</b>
 
-       <b><i>k</i>/mol</b>
+   <b><i>k</i>/mol</b>
