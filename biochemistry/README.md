@@ -26,3 +26,6 @@ If we're doing Quantum treatment of Genome itself associated with an Energy, <b>
  <b>Units:</b>
 
    <b><i>k</i>/mol</b>
+  
+## corollary
+Erwin Rudolf Josef Alexander Schrödinger; 12 August 1887 – 4 January 1961), sometimes written as Erwin Schrodinger or Erwin Schroedinger, was a Nobel Prize-winning Austrian physicist who developed a number of fundamental results in the field of quantum theory, which formed the basis of wave mechanics: he formulated the wave equation (stationary and time-dependent Schrödinger equation) and revealed the identity of his development of the formalism and matrix mechanics. Schrödinger proposed an original interpretation of the physical meaning of the wave function.
