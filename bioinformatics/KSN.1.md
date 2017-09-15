@@ -5,7 +5,7 @@ Now, what's exactly it is?
 
 Specifications:
 
-i) The first line begins with, <b>></b>,
+i) The first line begins with <b>></b>,
 
 ii) and thereafter, for nucleic acid; if DNA - D and if RNA - R and if Protein - P,
 
@@ -21,3 +21,10 @@ vi) After above, there is a limit to store the sequence in allowed letter of mol
     and if more than that of storage limit, we can go over the chunks of separate files,
 
 
+File Format of KSN.1
+--------------------
+
+>D;P49|Gene p49|
+ATGCTCTGCATGCATGCATGCAGTCAGT
+TGCAGTGCATGCAGTGTCAGTGCATGCA
+[P49]
