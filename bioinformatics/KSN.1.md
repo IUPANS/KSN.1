@@ -23,8 +23,9 @@ vi) After above, there is a limit to store the sequence in allowed letter of mol
 
 File Format of KSN.1
 --------------------
-
+```
 >D;P49|Gene p49|
 ATGCTCTGCATGCATGCATGCAGTCAGT
 TGCAGTGCATGCAGTGTCAGTGCATGCA
 [P49]
+```
