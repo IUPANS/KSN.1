@@ -10,4 +10,6 @@
   
   <b>[5LKS](http://www.rcsb.org/pdb/explore/explore.do?structureId=5LKS)—<b>Structure-function insights reveal the human ribosome as a cancer target for antibiotics.
   
+  <b>[5T2C](http://www.rcsb.org/pdb/explore/explore.do?structureId=5T2C)—<b>CryoEM structure of the human ribosome at 3.6 Ångström resolution.
+  
 <b>Disclaimer:</b> All above data and references, as per my knowledge is correct.
