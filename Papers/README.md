@@ -12,6 +12,19 @@ Department of Information Science, Sequomics, Inc.</br>
 ## ¶ Introduction
 ## ¶ Historical Perspective
 ## ¶ Specifications
+
+i) The first line begins with <b>></b>,</br>
+ii) and thereafter, for nucleic acid; if DNA - D and if RNA - R and if Protein - P,</br>
+iii) and ends with a single semicolon,</br>
+iv) The semicolon is followed by a unique code, which is a unique sequence identifier, that is generated for a respective molecule,
+v) Now, separate the name of molecular sequence and count of it with, a '|' symbol,</br>
+   
+   Note:- a newline (by caraige return) is required after that and we can say, first line a syntax identifier.
+
+vi) After above, there is a limit to store the sequence in allowed letter of molecules and length per line is 100,
+    and if more than that of storage limit, we can go over the chunks of separate files,</br>
+vii) every files have to be ended with a - EOS.</br>
+
 ## ¶ Programming and Implementation
 ### Pseudo Code
 ## ¶ Acknowledgement
