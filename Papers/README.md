@@ -33,6 +33,8 @@ vii) every files have to be ended with a - EOS.</br>
 
 Pinho, A.; Pratas, D. <i>et al.</i> (2014). "MFCompress: a compression tool for FASTA and multi-FASTA data.". <i>Bioinformatics</i>. <b>30 (1):</b> 117–118.
 
+Lipman, D.J.; Pearson, W.R. <i>et al.</i> (1985). "Rapid and sensitive protein similarity searches". <i>Science</i>. <b>227 (4693):</b> 1435–41.
+
 <i>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</i>
 
 ### ¶ Supplementary Data
