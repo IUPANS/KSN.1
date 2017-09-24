@@ -41,6 +41,8 @@ Pinho, A.; Pratas, D. <i>et al.</i> (2014). "MFCompress: a compression tool for 
 
 Jean-François Peyron; Bruno P. Klaholz <i>et al.</i> (2016). "Structure–function insights reveal the human ribosome as a cancer target for antibiotics". <i>Nature Communications</i>. <b>7:</b> 12856-12856.
 
+Hong Zhou Z. <i>et al.</i> (2016). "Structures and stabilization of kinetoplastid-specific split rRNAs revealed by comparing leishmanial and human ribosomes". <i>Nature Communications</i>. <b>7:</b> 13223-13223.
+
 <i>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</i>
 
 ### ¶ Supplementary Data
