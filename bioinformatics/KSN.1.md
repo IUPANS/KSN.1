@@ -23,6 +23,13 @@ vi) After above, there is a limit to store the sequence in allowed letter of mol
 
 vii) every files have to be ended with a - EOS.
 
+### Defining EOS
+[ ] — envelope,
+
+{ } — enclosure,
+
+:, :: — separator
+
 File Format of KSN.1
 --------------------
 ```
