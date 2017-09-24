@@ -8,4 +8,4 @@ It is the ignited simply, intended to limit or end support for the <b>KSN.1</b>.
 
 <b>Semantics:</b>
 
-<b>Example:</b> [5AF4:1{1/1}]
+<b>Example:</b> [5AF4‹1›{1:1}]
