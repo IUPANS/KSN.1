@@ -4,7 +4,7 @@ It is the ignited simply, intended to limit or end support for the <b>KSN.1</b>.
 
 <b>Syntax:</b> [CHAR:NUM{NUM/NUM}]
 
-<b>Notations:</b> [ ] – envelope, : or :: – separator, { } – enclosure.
+<b>Notations:</b> [ ] – envelope, ‹› – ket(s), : or :: – separator, { } – enclosure.
 
 <b>Semantics:</b>
 
