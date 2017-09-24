@@ -37,7 +37,9 @@ Lipman, D.J.; Pearson, W.R. <i>et al.</i> (1988). "Improved tools for biological
 
 David W. M. <i>et al.</i> (2001). Bioinformatics Sequence and Genome Analysis, <i>Cold Spring Harbor Laboratory Press</i>, 2001, S. 295-297
 
-Pinho, A.; Pratas, D. <i>et al.</i> (2014). "MFCompress: a compression tool for FASTA and multi-FASTA data.". <i>Bioinformatics</i>. <b>30 (1):</b> 117–118.
+Pinho, A.; Pratas, D. <i>et al.</i> (2014). "MFCompress: a compression tool for FASTA and multi-FASTA data". <i>Bioinformatics</i>. <b>30 (1):</b> 117–118.
+
+Jean-François Peyron; Bruno P. Klaholz <i>et al.</i> (2016). "Structure–function insights reveal the human ribosome as a cancer target for antibiotics". <i>Nature Communications</i>. <b>7:</b> 12856-12856.
 
 <i>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</i>
 
